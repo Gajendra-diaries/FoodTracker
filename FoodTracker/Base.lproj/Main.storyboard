@@ -55,9 +55,8 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="nameLabelField" destination="3HV-8k-tew" id="mdq-IL-K5w"/>
+                        <outlet property="mealNameLabel" destination="3HV-8k-tew" id="cwD-PK-EjA"/>
                         <outlet property="nameTextField" destination="XSo-MH-Qt0" id="LXA-ah-4Cp"/>
-                        <outlet property="setDefaultLabelText" destination="YbD-2s-vJ2" id="vw4-46-HcV"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
